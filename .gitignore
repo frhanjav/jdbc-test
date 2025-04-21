@@ -1,0 +1,3 @@
+*.class
+*.db
+sqlite-jdbc-3.49.1.0.jar
