@@ -1,3 +1,5 @@
+download .jar file from https://github.com/xerial/sqlite-jdbc/releases and paste inside this repo
+
 compile the code:
 ```
 javac -cp ".:./sqlite-jdbc-3.49.1.0.jar" JdbcSqliteDemo.java
